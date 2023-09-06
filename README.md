@@ -8,7 +8,6 @@ Welcome to the README for our Personalized Ecommerce Site. This document serves 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Project Overview
 
@@ -63,7 +62,3 @@ To run the Personalized Ecommerce Site on your local machine, follow these steps
 3. Explore personalized product recommendations based on your browsing and purchase history.
 
 4. Complete the checkout process to place orders.
-
-## Contributing
-
-We welcome contributions from the open-source community. If you'd like to contribute to the project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
