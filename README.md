@@ -1,5 +1,3 @@
-# Flipkart-Product-Recommendations
-```markdown
 # Personalized Ecommerce Site
 
 Welcome to the README for our Personalized Ecommerce Site. This document serves as a guide to understand the project, its features, and how to set it up.
